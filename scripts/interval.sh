@@ -1,0 +1,2 @@
+./testDequeue
+./testEnqueue $1
